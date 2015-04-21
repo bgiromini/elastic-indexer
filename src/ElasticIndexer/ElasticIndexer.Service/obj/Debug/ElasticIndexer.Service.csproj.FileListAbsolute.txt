@@ -1,0 +1,1 @@
+C:\Personal\elastic-indexer\src\ElasticIndexer\ElasticIndexer.Service\bin\Debug\ElasticIndexer.Service.exe.config
